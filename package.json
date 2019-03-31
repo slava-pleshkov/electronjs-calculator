@@ -1,0 +1,15 @@
+{
+  "name": "electronjs-calculator",
+  "version": "1.0.0",
+  "description": "Minimal calculator created on Electron.JS",
+  "main": "main.js",
+  "repository": "git@github.com:slava-pleshkov/electronjs-calculator.git",
+  "author": "Slava Pleshkov <mail@slavapleshkov.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^4.1.3"
+  }
+}
