@@ -3,7 +3,7 @@
         <img src="https://cdn-images-1.medium.com/max/1600/0*wJBghjYPZALMu6im." height="100px">
     </a>
     <a href="https://github.com/slava-pleshkov/electronjs-calculator" target="_blank">
-        <img src="https://github.com/slava-pleshkov/electronjs-calculator/blob/master/img/icon.png?raw=true" height="100px" width="300px">
+        <img src="https://github.com/slava-pleshkov/electronjs-calculator/blob/master/img/icon.png?raw=true" height="100px">
     </a>
     <h1 align="center">electronjs-calculator</h1>
     <br>
